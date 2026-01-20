@@ -85,7 +85,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 
 
 
---- 📺 Fr generaliste
+--- 📺 🇫🇷 GÉNÉRALISTEiste
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png" group-title="🇫🇷 GÉNÉRALISTE",6TER
@@ -94,10 +94,16 @@ https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
 http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/372
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african_canal/AB1-logo-Channel.png" tvg-name="AB1"  group-title="🇫🇷 GÉNÉRALISTE",AB1
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/322143
+#EXTINF:-1, tvg-id="canalplus.fr" tvg-logo="https://i.imgur.com/5HcyMnW.png" tvg-name="CANAL+ SD"  group-title="🇫🇷 FILMS",CANAL+ SD
+https://tv.it-zone.tech/proxy/963837?voucher=GSXRLVY0
+#EXTINF:-1, tvg-id="canalplus.fr" tvg-logo="https://i.imgur.com/5HcyMnW.png" tvg-name="CANAL+ HD"  group-title="🇫🇷 FILMS",CANAL+ HD
+https://tv.it-zone.tech/proxy/963838?voucher=GSXRLVY0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png" group-title="🇫🇷 GÉNÉRALISTE",CANAL+ EN CLAIR 
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/canalplusclair-hd.m3u8
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL ALPHA FHD"  group-title="🇫🇷 GÉNÉRALISTE",CANAL ALPHA FHD
 http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/52490
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BOOTCAMP"  group-title="🇫🇷 GÉNÉRALISTE",BOOTCAMP
+https://tv.it-zone.tech/proxy/1701111?voucher=GSXRLVY0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Sm9PtLR/cstar.png" group-title="🇫🇷 GÉNÉRALISTE",CSTAR
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png" group-title="🇫🇷 GÉNÉRALISTE",FRANCE 2 
@@ -118,6 +124,18 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/322142
 http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/1695
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CKmJVCGT/launebe.png" group-title="🇫🇷 GÉNÉRALISTE",LA UNE
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="L'EFFET PAPILLON"  group-title="🇫🇷 GÉNÉRALISTE",L'EFFET PAPILLON
+https://tv.it-zone.tech/proxy/1661083?voucher=GSXRLVY0
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="L'ESPRIT SORCIER TV"  group-title="🇫🇷 GÉNÉRALISTE",L'ESPRIT SORCIER TV
+https://tv.it-zone.tech/proxy/1661088?voucher=GSXRLVY0
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="LE MEILLEUR DE ARTHUR"  group-title="🇫🇷 GÉNÉRALISTE",LE MEILLEUR DE ARTHUR
+https://tv.it-zone.tech/proxy/1661089?voucher=GSXRLVY0
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="LA VÉRITÉ QUI COMPTE"  group-title="🇫🇷 GÉNÉRALISTE",LA VÉRITÉ QUI COMPTE
+https://tv.it-zone.tech/proxy/1661082?voucher=GSXRLVY0
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="LES ANGES"  group-title="🇫🇷 GÉNÉRALISTE",LES ANGES
+https://tv.it-zone.tech/proxy/1661091?voucher=GSXRLVY0
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="LES ZAMOURS TV"  group-title="🇫🇷 GÉNÉRALISTE",LES ZAMOURS TV
+https://tv.it-zone.tech/proxy/1672656?voucher=GSXRLVY0
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/france/LFM-TV.png" tvg-name="LFM TV HD"  group-title="🇫🇷 GÉNÉRALISTE",LFM TV HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70757
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png" group-title="🇫🇷 GÉNÉRALISTE",M6
@@ -158,7 +176,6 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/60995
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/322155
 #EXTINF:0, tvg-id="W9.fr" tvg-logo="http://logofun.ddns.net:25461/logo/w9.png" tvg-name="W9 FHD"  group-title="🇫🇷 GÉNÉRALISTE",W9 FHD
 http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/107
-
 
 --- 📺 Fr Musique
 
@@ -637,7 +654,10 @@ https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/evtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0FM2MbV/emci.png" group-title="🇫🇷 RELIGION",EMCI TV
 https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/dm/py/hls/emcieurope.m3u8
-
+#EXTINF:-1, tvg-id="re#160278" tvg-logo="Logo N/A" tvg-name="KTO FHD"  group-title="🇫🇷 RELIGION",KTO FHD
+https://tv.it-zone.tech/proxy/964231?voucher=GSXRLVY0
+#EXTINF:-1, tvg-id="re#160278" tvg-logo="Logo N/A" tvg-name="KTO SD"  group-title="🇫🇷 RELIGION",KTO SD
+https://tv.it-zone.tech/proxy/964229?voucher=GSXRLVY0
 
 
 
@@ -645,12 +665,16 @@ https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/02pwsTj/cinenanar.png"group-title="🇫🇷 FILMS",CINÉ NANAR
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/02pwsTj/cinenanar.png" tvg-name="CINE NANAR"  group-title="🇫🇷 FILMS",CINE NANAR SD
+https://tv.it-zone.tech/proxy/1671241?voucher=GSXRLVY0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QbDCvVf/cinewestern.png" group-title="🇫🇷 FILMS",CINÉ WESTERN
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2SHJGsj/allocine.png" group-title="🇫🇷 FILMS",ALLO CINÉ
 https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3v8W06Q/rakutenfilms.png" group-title="🇫🇷 FILMS",RAKUTEN TOP FILMS
 https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/3v8W06Q/rakutenfilms.png" tvg-name="RAKUTEN TOP FILM"  group-title="🇫🇷 FILMS",RAKUTEN TOP FILMS
+https://tv.it-zone.tech/proxy/1671313?voucher=GSXRLVY0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3v8W06Q/rakutenfilms.png" group-title="🇫🇷 FILMS",RAKUTEN ACTION FILMS
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3v8W06Q/rakutenfilms.png" group-title="🇫🇷 FILMS",RAKUTEN COMEDY FILMS
@@ -672,13 +696,18 @@ https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0psZzs4S/scream.jpg"group-title="🇫🇷 FILMS",SCREAM IN
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ibb.co/0psZzs4S/scream.jpg" tvg-name="CINE SCREAM IN"  group-title="🇫🇷 FILMS",CINE SCREAM IN
+https://tv.it-zone.tech/proxy/1671242?voucher=GSXRLVY0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v63mDMBw/intocrime.png"group-title="🇫🇷 FILMS",INTO CRIME
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
+
 #EXTINF:-1, tvg-id="DisneyJuniorSouthAfrica.za" tvg-logo="http://safiafamily.com/uploads/family/african_canal/SYFY-Franch-TV.png" tvg-name="SYFY TV French"  group-title="🇫🇷 FILMS",SYFY TV French
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/322144
 
-#EXTINF:-1, tvg-id="cineplusemotion.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Cine--Emotion.png" tvg-name=" Cine Emotion HD+"  group-title="🇫🇷 FILMS", Cine Emotion HD+
+#EXTINF:-1, tvg-id="cineplusemotion.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Cine--Emotion.png" tvg-name=" Cine Emotion HD+"  group-title="🇫🇷 FILMS", Cine Emotion HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/654056
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/france/Cine--Emotion.png" tvg-name="CINE ÉMOTION"  group-title="🇫🇷 FILMS",CINE ÉMOTION
+https://tv.it-zone.tech/proxy/1671240?voucher=GSXRLVY0
 
 
 
@@ -703,6 +732,8 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70613
 
 #EXTINF:-1, tvg-id="cineplusclassic.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Cine--Classic.png" tvg-name=" Cine+ Classic HD"  group-title="🇫🇷 FILMS", Cine+ Classic HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70616
+#EXTINF:-1, tvg-id="cineplusclassic.fr" tvg-logo="https://i.imgur.com/y2zeLS3.jpeg" tvg-name="CINE+ CLASSIC SD"  group-title="🇫🇷 FILMS",Cine+ Classic SD
+https://tv.it-zone.tech/proxy/963867?voucher=GSXRLVY0
 
 #EXTINF:-1, tvg-id="CinePlusFamiz.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Cine--Famiz.png" tvg-name=" Cine+ Famiz HD"  group-title="🇫🇷 FILMS", Cine+ Famiz HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70614
@@ -719,8 +750,10 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/654044
 
 
 
-#EXTINF:-1, tvg-id="cineplusclub.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Cine--Club.png" tvg-name=" Cine Club HD"  group-title="🇫🇷 FILMS", Cine Club HD
+#EXTINF:-1, tvg-id="cineplusclub.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Cine--Club.png" tvg-name=" Cine Club HD"  group-title="🇫🇷 FILMS", Cine+ Club HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/654057
+#EXTINF:-1, tvg-id="cineplusclub.fr" tvg-logo="https://i.imgur.com/OJfAUMj.png" tvg-name="CINE+ CLUB FHD"  group-title="🇫🇷 FILMS",Cine+ Club FHD
+https://tv.it-zone.tech/proxy/963872?voucher=GSXRLVY0
 
 #EXTINF:-1, tvg-id="cinepluspremier.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Cine--Premier.png" tvg-name=" Cine + Premier HD"  group-title="🇫🇷 FILMS", Cine + Premier HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/654049
@@ -784,59 +817,36 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300582
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A LA CARTE 08"  group-title="🇫🇷 FILMS",A La Carte 8
 http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/72
 
-#EXTINF:-1, tvg-id="canalpluscinema.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Canal-Cinema-TV.png" tvg-name=" Canal+ Cinema HD"  group-title="🇫🇷 FILMS", Canal+ Cinema HD
+#EXTINF:-1, tvg-id="canalpluscinema.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Canal-Cinema-TV.png" tvg-name=" Canal+ Cinema HD"  group-title="🇫🇷 FILMS", Canal+ Cinema
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70603
+#EXTINF:-1, tvg-id="re#160014" tvg-logo="Logo N/A" tvg-name="CANAL+ CINEMA SD"  group-title="🇫🇷 FILMS",CANAL+ CINEMA SD
+https://tv.it-zone.tech/proxy/963849?voucher=GSXRLVY0
+#EXTINF:-1, tvg-id="re#160014" tvg-logo="Logo N/A" tvg-name="CANAL+ CINEMA FHD"  group-title="🇫🇷 FILMS",CANAL+ CINEMA FHD
+https://tv.it-zone.tech/proxy/963851?voucher=GSXRLVY0
+#EXTINF:-1, tvg-id="re#160014" tvg-logo="Logo N/A" tvg-name="CANAL+ CINEMA HD"  group-title="🇫🇷 FILMS",CANAL+ CINEMA HD
+https://tv.it-zone.tech/proxy/963850?voucher=GSXRLVY0
 
 #EXTINF:-1, tvg-id="canalplusfamily.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Canal-Family-TV.png" tvg-name=" Canal+ Family HD"  group-title="🇫🇷 FILMS", Canal+ Family HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70601
 
 #EXTINF:-1, tvg-id="CanalPlus.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Canal-TV-Channel-France.png" tvg-name=" Canal+ HD"  group-title="🇫🇷 FILMS", Canal+ HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70598
+#EXTINF:-1, tvg-id="canalplusgrandecran.fr" tvg-logo="https://i0.wp.com/www.planetecsat.com/wp-content/uploads/2022/01/CANALP_GRAND_ECRAN_1lignes_RVB_2021_06_07-07-01-22.png?w=509&ssl=1" tvg-name="CANAL+ GRAND ECRAN HD"  group-title="🇫🇷 FILMS",CANAL+ GRAND ECRAN HD
+https://tv.it-zone.tech/proxy/963844?voucher=GSXRLVY0
+#EXTINF:-1, tvg-id="canalplusgrandecran.fr" tvg-logo="https://i0.wp.com/www.planetecsat.com/wp-content/uploads/2022/01/CANALP_GRAND_ECRAN_1lignes_RVB_2021_06_07-07-01-22.png?w=509&ssl=1" tvg-name="CANAL+ GRAND ECRAN SD"  group-title="🇫🇷 FILMS",CANAL+ GRAND ECRAN SD
+https://tv.it-zone.tech/proxy/963843?voucher=GSXRLVY0
 
 #EXTINF:-1, tvg-id="NT1.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Cine--TFX-logo-TV.png" tvg-name=" TFX HD"  group-title="🇫🇷 FILMS", TFX HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/654050
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/usa/box_office.png" tvg-name=" Canal+ Box Office"  group-title="🇫🇷 FILMS", Canal+ Box Office
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/922086
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BOX OFFICE 1"  group-title="🇫🇷 FILMS",BOX OFFICE 1
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/55652
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BOX OFFICE 2"  group-title="🇫🇷 FILMS",BOX OFFICE 2
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/55653
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BOX OFFICE 3"  group-title="🇫🇷 FILMS",BOX OFFICE 3
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/55654
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BOX OFFICE 5"  group-title="🇫🇷 FILMS",BOX OFFICE 5
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/55656
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BOX OFFICE 6"  group-title="🇫🇷 FILMS",BOX OFFICE 6
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/55657
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BOX OFFICE 7"  group-title="🇫🇷 FILMS",BOX OFFICE 7
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/55658
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BOX OFFICE 8"  group-title="🇫🇷 FILMS",BOX OFFICE 8
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/55659
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BOX OFFICE 9"  group-title="🇫🇷 FILMS",BOX OFFICE 9
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/55663
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BOX OFFICE 10"  group-title="🇫🇷 FILMS",BOX OFFICE 10
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/55664
 
 
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL PLAY 02"  group-title="🇫🇷 FILMS",CANAL PLAY 02
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/51
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL PLAY 03"  group-title="🇫🇷 FILMS",CANAL PLAY 03
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/52
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL PLAY 04"  group-title="🇫🇷 FILMS",CANAL PLAY 04
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/53
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL PLAY 05"  group-title="🇫🇷 FILMS",CANAL PLAY 05
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/54
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL PLAY 07"  group-title="🇫🇷 FILMS",CANAL PLAY 07
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/56
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL PLAY 08"  group-title="🇫🇷 FILMS",CANAL PLAY 08
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/57
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL PLAY 10"  group-title="🇫🇷 FILMS",CANAL PLAY 10
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/59
-
-
-
-
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="LA PLANÈTE DES SINGES"  group-title="🇫🇷 FILMS",LA PLANÈTE DES SINGES
+https://tv.it-zone.tech/proxy/1701110?voucher=GSXRLVY0
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CINE COURT MÉTRAGE"  group-title="🇫🇷 FILMS",CINE COURT MÉTRAGE
+https://tv.it-zone.tech/proxy/1661084?voucher=GSXRLVY0
 #EXTINF:-1, tvg-id="warnertv.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Warner-tv.png" tvg-name=" Warner HD"  group-title="🇫🇷 FILMS", Warner HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70625
 
@@ -847,12 +857,20 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/654043
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/654121
 #EXTINF:-1, tvg-id="action.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Action--TV-.png" tvg-name=" Action HD"  group-title="🇫🇷 FILMS", Action HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70605
+#EXTINF:-1, tvg-id="action.fr" tvg-logo="https://i.imgur.com/Zv9VsVq.png" tvg-name="ACTION SD"  group-title="🇫🇷 FILMS",ACTION SD
+https://tv.it-zone.tech/proxy/963891?voucher=GSXRLVY0
+#EXTINF:-1, tvg-id="action.fr" tvg-logo="https://i.imgur.com/Zv9VsVq.png" tvg-name="ACTION FHD"  group-title="🇫🇷 FILMS",ACTION FHD
+https://tv.it-zone.tech/proxy/963893?voucher=GSXRLVY0
 
 #EXTINF:-1, tvg-id="serieclub.fr" tvg-logo="http://safiafamily.com/uploads/family/african_canal/Serie-Club-TV.png" tvg-name=" Serie Club HD"  group-title="🇫🇷 FILMS", Serie Club HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70622
 
 #EXTINF:-1, tvg-id="tcm.fr" tvg-logo="http://safiafamily.com/uploads/family/france/TCM-Cinema-.png" tvg-name=" TCM Cinema HD"  group-title="🇫🇷 FILMS",TCM Cinema HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70736
+#EXTINF:-1, tvg-id="pf#200374" tvg-logo="http://safiafamily.com/uploads/family/france/TCM-Cinema-.png" tvg-name="TCM CINEMA FHD"  group-title="🇫🇷 FILMS",TCM CINEMA FHD
+https://tv.it-zone.tech/proxy/963884?voucher=GSXRLVY0
+#EXTINF:-1, tvg-id="pf#200374" tvg-logo="http://safiafamily.com/uploads/family/france/TCM-Cinema-.png" tvg-name="TCM CINEMA SD"  group-title="🇫🇷 FILMS",TCM CINEMA SD
+https://tv.it-zone.tech/proxy/963882?voucher=GSXRLVY0
 
 #EXTINF:-1 tvg-chno="795" tvg-id="FR90000160" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR90000160_20251028T011422SQUARE.png" tvg-country="FR" group-title="🇫🇷 FILMS",Mr Bean Animated
 https://jmp2.uk/stvp-FR90000160
@@ -905,8 +923,14 @@ https://4f2a3e1ff5274297b115cf0f7da1c2cd.mediatailor.us-west-2.amazonaws.com/v1/
 https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8
 #EXTINF:-1, tvg-id="tf1seriesfilms.fr" tvg-logo="http://safiafamily.com/uploads/family/france/TF1.png" tvg-name=" TF1 Series Films HD"  group-title="🇫🇷 SÉRIES", TF1 Series Films HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70564
-#EXTINF:-1, tvg-id="canalplusseries.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Canal-Series-TV.png" tvg-name=" Canal+ Series HD"  group-title="🇫🇷 SÉRIES", Canal+ Series HD
+#EXTINF:-1, tvg-id="canalplusseries.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Canal-Series-TV.png" tvg-name=" Canal+ Series HD"  group-title="🇫🇷 SÉRIES", Canal+ Series
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70600
+#EXTINF:-1, tvg-id="re#160312" tvg-logo="http://safiafamily.com/uploads/family/france/Canal-Series-TV.png" tvg-name="CANAL+ SERIES SD"  group-title="🇫🇷 FILMS",CANAL+ SERIES SD
+https://tv.it-zone.tech/proxy/963840?voucher=GSXRLVY0
+#EXTINF:-1, tvg-id="re#160312" tvg-logo="http://safiafamily.com/uploads/family/france/Canal-Series-TV.png" tvg-name="CANAL+ SERIE FHD"  group-title="🇫🇷 FILMS",CANAL+ SERIE FHD
+https://tv.it-zone.tech/proxy/963842?voucher=GSXRLVY0
+#EXTINF:-1, tvg-id="re#160312" tvg-logo="http://safiafamily.com/uploads/family/france/Canal-Series-TV.png" tvg-name="CANAL+ SERIES HD"  group-title="🇫🇷 FILMS",CANAL+ SERIES HD
+https://tv.it-zone.tech/proxy/963841?voucher=GSXRLVY0
 #EXTINF:-1, tvg-id="tf1seriesfilms.fr" tvg-logo="http://safiafamily.com/uploads/family/france/tf1-series-films.png" tvg-name="TF1 Series Films FHD"  group-title="🇫🇷 SÉRIES", TF1 Series Films FHD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/654020
 #EXTINF:-1 tvg-chno="823" tvg-id="FRBD37000020Y" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD37000020Y_20250415T020906SQUARE.png" tvg-country="FR" group-title="🇫🇷 SÉRIES",Plus belle la vie
@@ -943,7 +967,7 @@ https://jmp2.uk/stvp-FR3100005MK
 
 
 
---- 📺 Fr Sports
+--- 📺 🇫🇷 SPORTSs
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xdqd4cT/afterfootrmc.jpg" group-title="🇫🇷 SPORTS",AFTERFOOT RMC-BFM
 https://d278gam2ft6q08.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0ic4hqa502el6/AfterfootTV_FR.m3u8
@@ -952,8 +976,8 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70711
 #EXTINF:-1, tvg-id="Automoto.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Auto-Moto.png" tvg-name="Auto Moto HD"  group-title="🇫🇷 SPORTS",Auto Moto HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70712
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeIN Sports_1_HD"  group-title="🇫🇷 SPORTS",BeIN Sports 1
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/3682
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1366.png?45033" tvg-name="BEIN SPORTS 1 4K"  group-title="🇫🇷 SPORTS",BEIN SPORTS 1 4K
+https://tv.it-zone.tech/proxy2/107005?voucher=GSXRLVY0
 #EXTINF:-1, tvg-id="BeinSport1.fr" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png" tvg-name="BeIn Sports 1 FHD"  group-title="🇫🇷 SPORTS",BeIn Sports 1 FHD
 http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=146116&extension=ts
 #EXTINF:-1, tvg-id="beinsports1.fr" tvg-logo="http://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" tvg-name="BeIN Sports 1 FHD"  group-title="🇫🇷 SPORTS",BeIN Sports 1 FHD
@@ -966,53 +990,51 @@ http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=149773&extens
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70674
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeIN Sports_2_HD"  group-title="🇫🇷 SPORTS",BeIN Sports 2
 http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/47302
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeIN Sports_2_FullHD"  group-title="🇫🇷 SPORTS",BeIN Sports 2
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/74
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/532.png?48273" tvg-name="BEIN SPORTS 2 4K"  group-title="🇫🇷 SPORTS",BEIN SPORTS 2 4K
+https://tv.it-zone.tech/proxy2/107006?voucher=GSXRLVY0
 #EXTINF:-1, tvg-id="BeinSport3.fr" tvg-logo="https://static.epg.best/fr/BeinSports3.fr.png" tvg-name="BeIn Sports 3 FHD"  group-title="🇫🇷 SPORTS",BeIn Sports 3 FHD
 http://eagle2024.xyz:80/play/live.php?mac=00:1A:79:C1:E3:9A&stream=250663&extension=ts
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeIN Sports_3_FullHD"  group-title="🇫🇷 SPORTS",BeIN Sports 3
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/52172
 #EXTINF:-1, tvg-id="beinsports3.fr" tvg-logo="http://safiafamily.com/uploads/family/Bein_sports/Bein_3.png" tvg-name="BeIN Sports 3 HD"  group-title="🇫🇷 SPORTS",BeIN Sports 3 HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70675
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN SPORTS 3 HEVC"  group-title="🇫🇷 SPORTS",BeIN Sports 3 HEVC
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/53326
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/533.png?52675" tvg-name="BEIN SPORTS 3 4K"  group-title="🇫🇷 SPORTS",BEIN SPORTS 3 4K
+https://tv.it-zone.tech/proxy2/107007?voucher=GSXRLVY0
 #EXTINF:-1, tvg-id="beinsportsmax4.fr" tvg-logo="http://safiafamily.com/uploads/family/france/BeIN-Max-4.png" tvg-name="BeIN Sports Max 4 FHD"  group-title="🇫🇷 SPORTS",BeIN Sports Max 4 FHD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70676
 #EXTINF:-1, tvg-id="beinsportsmax4.fr" tvg-logo="http://safiafamily.com/uploads/family/france/BeIN-Max-4.png" tvg-name="beIN Sports Max 4 HD"  group-title="🇫🇷 SPORTS",BeIN Sports Max 4 HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/654068
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN_SPORT_MAX_04"  group-title="🇫🇷 SPORTS",BeIN Sports Max 4
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/49620
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN_SPORT_MAX_04"  group-title="🇫🇷 SPORTS",BeIN Sports Max 4 SD
+https://tv.it-zone.tech/proxy2/207216?voucher=GSXRLVY0
 #EXTINF:-1, tvg-id="beinsportsmax5.fr" tvg-logo="http://safiafamily.com/uploads/family/france/BeIN-Max-5.png" tvg-name="BeIN Sports Max 5 FHD"  group-title="🇫🇷 SPORTS",BeIN Sports Max 5 FHD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300601
 #EXTINF:-1, tvg-id="beinsportsmax5.fr" tvg-logo="http://safiafamily.com/uploads/family/france/BeIN-Max-5.png" tvg-name="BeIN Sports Max 5 HD"  group-title="🇫🇷 SPORTS",BeIN Sports Max 5 HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70677
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN_SPORT_MAX_05"  group-title="🇫🇷 SPORTS",BeIN Sports Max 5
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/49619
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN_SPORT_MAX_05"  group-title="🇫🇷 SPORTS",BeIN Sports Max 5 SD
+https://tv.it-zone.tech/proxy2/207217?voucher=GSXRLVY0
 #EXTINF:-1, tvg-id="beinsportsmax6.fr" tvg-logo="http://safiafamily.com/uploads/family/france/BeIN-Max-6.png" tvg-name="BeIN Sports Max 6 HD"  group-title="🇫🇷 SPORTS",BeIN Sports Max 6 HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70678
 #EXTINF:-1, tvg-id="beinsportsmax6.fr" tvg-logo="http://safiafamily.com/uploads/family/france/BeIN-Max-6.png" tvg-name="BeIN Sports Max 6 FHD"  group-title="🇫🇷 SPORTS",BeIN Sports Max 6 FHD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300602
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN_SPORT_MAX_06"  group-title="🇫🇷 SPORTS",BeIN Sports Max 6
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/49618
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN_SPORT_MAX_06"  group-title="🇫🇷 SPORTS",BeIN Sports Max 6 SD
+https://tv.it-zone.tech/proxy2/207218?voucher=GSXRLVY0
 #EXTINF:-1, tvg-id="beinsportsmax7.fr" tvg-logo="http://safiafamily.com/uploads/family/france/BeIN-Max-7.png" tvg-name="BeIN Sports Max 7 HD"  group-title="🇫🇷 SPORTS",BeIN Sports Max 7 HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70679
 #EXTINF:-1, tvg-id="beinsportsmax7.fr" tvg-logo="http://safiafamily.com/uploads/family/france/BeIN-Max-7.png" tvg-name="beIN Sports Max 7 HD"  group-title="🇫🇷 SPORTS",BeIN Sports Max 7 FHD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/654070
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN_SPORT_MAX_07"  group-title="🇫🇷 SPORTS",BeIN Sports Max 7
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/49617
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN_SPORT_MAX_07"  group-title="🇫🇷 SPORTS",BeIN Sports Max 7 SD
+https://tv.it-zone.tech/proxy2/207219?voucher=GSXRLVY0
 #EXTINF:-1, tvg-id="beinsportsmax8.fr" tvg-logo="http://safiafamily.com/uploads/family/france/BeIN-Max-8.png" tvg-name="BeIN Sports Max 8 HD"  group-title="🇫🇷 SPORTS",BeIN Sports Max 8 HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70680
 
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN_SPORT_MAX_08"  group-title="🇫🇷 SPORTS",BeIN Sports Max 8
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/49616
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN_SPORT_MAX_08"  group-title="🇫🇷 SPORTS",BeIN Sports Max 8 SD
+https://tv.it-zone.tech/proxy2/207220?voucher=GSXRLVY0
 #EXTINF:-1, tvg-id="beinsportsmax9.fr" tvg-logo="http://safiafamily.com/uploads/family/france/BeIN-Max-9.png" tvg-name="BeIN Sports Max 9 HD"  group-title="🇫🇷 SPORTS",BeIN Sports Max 9 HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70681
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN_SPORT_MAX_09"  group-title="🇫🇷 SPORTS",BeIN Sports Max 9
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/49615
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN_SPORT_MAX_09"  group-title="🇫🇷 SPORTS",BeIN Sports Max 9 SD
+https://tv.it-zone.tech/proxy2/207221?voucher=GSXRLVY0
 #EXTINF:-1, tvg-id="beinsportsmax10.fr" tvg-logo="http://safiafamily.com/uploads/family/france/BeIN-Max-10.png" tvg-name="BeIN Sports Max 10 HD"  group-title="🇫🇷 SPORTS",BeIN Sports Max 10 HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70682
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN_SPORT_MAX_10"  group-title="🇫🇷 SPORTS",BeIN Sports Max 10
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/49614
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN_SPORT_MAX_10"  group-title="🇫🇷 SPORTS",BeIN Sports Max 10 SD
+https://tv.it-zone.tech/proxy2/207222?voucher=GSXRLVY0
 
 #EXTINF:-1 tvg-id="Canalplus.fr" tvg-name="Canal+ FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s78977_dark_360w_270h.png" group-title="🇫🇷 SPORTS",Canal+ FHD
 http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=148474&extension=ts
@@ -1020,17 +1042,17 @@ http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=148474&extens
 http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=/play/live.php?mac=00:1A:79:CD:E0:3F&stream=32769&extension=ts
 #EXTINF:-1, tvg-id="CanalPlusFoot.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-foot-fr.png" tvg-name="Canal+ Foot FHD"  group-title="🇫🇷 SPORTS",Canal+ Foot FHD
 http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=/play/live.php?mac=00:1A:79:CD:E0:3F&stream=256629&extension=ts
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL+_SPORT_FOOT_FHD"  group-title="🇫🇷 SPORTS",CANAL+ FOOT FHD
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/54658
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10020.jpg?ver=11693" tvg-name="CANAL+ FOOT 4K"  group-title="🇫🇷 SPORTS",CANAL+ FOOT 4K
+https://tv.it-zone.tech/proxy2/394814?voucher=GSXRLVY0
 #EXTINF:-1, tvg-id="canalplusfoot.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Canal--Sport-Foot-TV-Channel-France.png" tvg-name="Canal+ Foot HD"  group-title="🇫🇷 SPORTS",Canal+ Foot HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/654065
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL+ FOOT HEVC"  group-title="🇫🇷 SPORTS",CANAL+ FOOT HEVC
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/53295
+#EXTINF:-1, tvg-id="http://safiafamily.com/uploads/family/france/Canal--Sport-Foot-TV-Channel-France.png" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10020.jpg?ver=11693" tvg-name="CANAL+ FOOT 4K"  group-title="🇫🇷 SPORTS",CANAL+ FOOT 4K
+https://tv.it-zone.tech/proxy2/394814?voucher=GSXRLVY0
 #EXTINF:-1, tvg-id="canalplusfoot.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Foot-24-24TV-Channel-France.png" tvg-name="Foot+ 24/24 HD"  group-title="🇫🇷 SPORTS",Foot+ 24/24 HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70707
 #EXTINF:-1, tvg-id="CanalPlusSport360.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-sport-360-fr.png" tvg-name="Canal+ Sport 360 FHD"  group-title="🇫🇷 SPORTS",Canal+ Sport 360 FHD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/654066
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL+_360_FHD"  group-title="🇫🇷 SPORTS",CANAL+ 360 HD
+#EXTINF:0, tvg-id="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-sport-360-fr.png" tvg-logo="Logo N/A" tvg-name="CANAL+_360_FHD"  group-title="🇫🇷 SPORTS",CANAL+ 360 HD
 http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/54657
 #EXTINF:-1, tvg-id="InfosportPlus.fr" tvg-logo="https://static.epg.best/fr/InfosportPlus.fr.png" tvg-name="Infosport+ FHD"  group-title="🇫🇷 SPORTS",Infosport+ FHD
 http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=274704&extension=ts
@@ -1052,8 +1074,14 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70599
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/654105
 #EXTINF:-1, tvg-id="CanalPlusSport2.af" tvg-logo="http://safiafamily.com/uploads/family/france/Canal--Sport-2-TV-Channel-France.png" tvg-name="Canal+ Sport 2 HD"  group-title="🇫🇷 SPORTS",Canal+ Sport 2 HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/654106
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://102.177.177.154/logos/picons/logos/canalplussporthd2.png" tvg-name="AF: CANAL+ SPORT 2"  group-title="🇫🇷 SPORTS", CANAL+ SPORT 2 SD
+https://tv.it-zone.tech/proxy2/293307?voucher=GSXRLVY0
 #EXTINF:-1, tvg-id="CanalPlusSport3.af" tvg-logo="http://safiafamily.com/uploads/family/france/Canal--Sport-3-TV-Channel-France.png" tvg-name="Canal+ Sport 3 HD"  group-title="🇫🇷 SPORTS",Canal+ Sport 3 HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/654107
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://102.177.177.154/logos/picons/logos/canalplussporthd3.png" tvg-name="CANAL+ SPORT 3"  group-title="🇫🇷 SPORTS",CANAL+ SPORT 3 SD
+https://tv.it-zone.tech/proxy2/293308?voucher=GSXRLVY0
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://102.177.177.154/logos/picons/logos/canalplussporthd4.png" tvg-name="CANAL+ SPORT 4"  group-title="🇫🇷 SPORTS",CANAL+ SPORT 4 SD
+https://tv.it-zone.tech/proxy2/293309?voucher=GSXRLVY0
 #EXTINF:-1, tvg-id="CanalPlusSport5.af" tvg-logo="http://safiafamily.com/uploads/family/france/Canal--Sport-5-TV-Channel-France.png" tvg-name="Canal+ Sport 5 HD"  group-title="🇫🇷 SPORTS",Canal+ Sport 5 HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/654109
 #EXTINF:-1, tvg-id="canalpluspremierleague.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Canal--Premier-League-TV-Channel-France.png" tvg-name="Canal+ Premier League FHD"  group-title="🇫🇷 SPORTS",Canal+ Premier League HD
@@ -1072,30 +1100,34 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/922091
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/922092
 #EXTINF:-1, tvg-id="CanalPlusLive6.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Canal_Live_6.png" tvg-name="Canal+ Live 6"  group-title="🇫🇷 SPORTS",Canal+ Live 6
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/922093
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal+ Live 7"  group-title="🇫🇷 SPORTS",Canal+ Live 7
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/56559
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/france/cana_live_7.png" tvg-name="Canal+ Live 7"  group-title="🇫🇷 SPORTS",Canal+ Live 7
+https://tv.it-zone.tech/proxy/1551383?voucher=GSXRLVY0
 #EXTINF:-1, tvg-id="CanalPlusLive8.fr" tvg-logo="http://safiafamily.com/uploads/family/france/cana_live_8.png" tvg-name="Canal+ Live 8"  group-title="🇫🇷 SPORTS",Canal+ Live 8
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/922095
 #EXTINF:-1, tvg-id="CanalPlusLive9.fr" tvg-logo="http://safiafamily.com/uploads/family/france/canal_live_9.png" tvg-name="Canal+ Live 9"  group-title="🇫🇷 SPORTS",Canal+ Live 9
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/922096
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal+ Live 10"  group-title="🇫🇷 SPORTS",Canal+ Live 10
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/56562
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal+ Live 11"  group-title="🇫🇷 SPORTS",Canal+ Live 11
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/56563
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal+ Live 12"  group-title="🇫🇷 SPORTS",Canal+ Live 12
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/56564
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal+ Live 13"  group-title="🇫🇷 SPORTS",Canal+ Live 13
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/56565
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL+ LIVE 14"  group-title="🇫🇷 SPORTS",Canal+ Live 14
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/56566
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal+ Live 15"  group-title="🇫🇷 SPORTS",Canal+ Live 15
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/56567
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL+ LIVE 16"  group-title="🇫🇷 SPORTS",Canal+ Live 16
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/56568
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal+ Live 17"  group-title="🇫🇷 SPORTS",Canal+ Live 17
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/56569
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal+ Live 18"  group-title="🇫🇷 SPORTS",Canal+ Live 18
-http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/56570
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/france/canal_live_10.png" tvg-name="Canal+ Live 10"  group-title="🇫🇷 SPORTS",Canal+ Live 10
+https://tv.it-zone.tech/proxy/1551379?voucher=GSXRLVY0
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/france/canal_live_11.png" tvg-name="Canal+ Live 11"  group-title="🇫🇷 SPORTS",Canal+ Live 11
+https://tv.it-zone.tech/proxy/1551378?voucher=GSXRLVY0
+#EXTINF:-1, tvg-id="CanalPlusLive11.fr" tvg-logo="http://safiafamily.com/uploads/family/france/canal_live_11.png" tvg-name="CANAL+ LIVE 11"  group-title="🇫🇷 SPORTS",CANAL+ LIVE 11 SD
+https://tv.it-zone.tech/proxy/1551378?voucher=GSXRLVY0
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/france/canal_live_12.png" tvg-name="Canal+ Live 12"  group-title="🇫🇷 SPORTS",Canal+ Live 12
+https://tv.it-zone.tech/proxy/1551377?voucher=GSXRLVY0
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/france/canal_live_13.png" tvg-name="Canal+ Live 13"  group-title="🇫🇷 SPORTS",Canal+ Live 13
+https://tv.it-zone.tech/proxy/1551376?voucher=GSXRLVY0
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/france/canal_live_14.png" tvg-name="CANAL+ LIVE 14"  group-title="🇫🇷 SPORTS",Canal+ Live 14
+https://tv.it-zone.tech/proxy/1551375?voucher=GSXRLVY0
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/france/canal_live_15.png" tvg-name="Canal+ Live 15"  group-title="🇫🇷 SPORTS",Canal+ Live 15
+https://tv.it-zone.tech/proxy/1551374?voucher=GSXRLVY0
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/france/canal_live_16.png" tvg-name="CANAL+ LIVE 16"  group-title="🇫🇷 SPORTS",Canal+ Live 16
+https://tv.it-zone.tech/proxy/1551373?voucher=GSXRLVY0
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/france/canal_live_17.png" tvg-name="Canal+ Live 17"  group-title="🇫🇷 SPORTS",Canal+ Live 17
+https://tv.it-zone.tech/proxy/1551372?voucher=GSXRLVY0
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/france/canal_live_18.png" tvg-name="Canal+ Live 18"  group-title="🇫🇷 SPORTS",Canal+ Live 18
+https://tv.it-zone.tech/proxy/1551371?voucher=GSXRLVY0
+#EXTINF:-1, tvg-id="CanalPlusLive19.fr" tvg-logo="http://safiafamily.com/uploads/family/france/canal_live_19.png" tvg-name="Canal+ Live 19"  group-title="🇫🇷 SPORTS",Canal+ Live 19
+https://tv.it-zone.tech/proxy/1551370?voucher=GSXRLVY0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xs1PxZs/driveauto.png" group-title="🇫🇷 SPORTS",DRIVE AUTO
 https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-drivetv-rakutenuk/playlist.m3u8
@@ -1169,7 +1201,8 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/939425
 https://d1qswsont218xa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-im2kwho8ev6jk/mv_fr.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kDmhscZ/mgg.png" group-title="🇫🇷 SPORTS",MGG E-SPORT
 https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
-
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1959.png?74594" tvg-name="OL TV 4K"  group-title="🇫🇷 SPORTS",OL TV 4K
+https://tv.it-zone.tech/proxy2/696383?voucher=GSXRLVY0
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/france/RMC-Sport-1.png" tvg-name="RMC Sport Access"  group-title="🇫🇷 SPORTS",RMC Sport Access
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/923561
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RMC_Story_HD"  group-title="🇫🇷 SPORTS",RMC Story HD
@@ -1203,10 +1236,231 @@ https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/lequip
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1, tvg-id="tracesportstars.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Trace-Sport-Stars-Channel-France.png" tvg-name="Trace Sport Stars HD"  group-title="🇫🇷 SPORTS",Trace Sport Stars HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/654112
+#EXTINF:-1, tvg-id="mg#180566" tvg-logo="Logo N/A" tvg-name="TREK FHD"  group-title="🇫🇷 SPORTS",TREK FHD
+https://tv.it-zone.tech/proxy/964133?voucher=GSXRLVY0
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="W-SPORT HD"  group-title="🇫🇷 SPORTS",W-SPORT HD
 http://vip.sibfungold.org:8080/sonicsonic/C7CnOjssKo@M1JBEPSq5i/56312
 
 
+
+
+
+
+#EXTINF:-1, tvg-id="mg#180566" tvg-logo="Logo N/A" tvg-name="TREK"  group-title="🇫🇷 UHD 4K",TREK
+https://tv.it-zone.tech/proxy/964842?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="NickelodeonJunior.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/512px-Nickelodeon_Junior.png" tvg-name="NICKELODEON JUNIOR"  group-title="🇫🇷 UHD 4K",NICKELODEON JUNIOR
+https://tv.it-zone.tech/proxy/964848?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="golfplus.fr" tvg-logo="https://i.imgur.com/WHnddkg.png" tvg-name="GOLF+"  group-title="🇫🇷 UHD 4K",GOLF+
+https://tv.it-zone.tech/proxy/964818?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="Automotolachaine.fr" tvg-logo="https://i.imgur.com/ebf2uc7.png" tvg-name="AUTOMOTO"  group-title="🇫🇷 UHD 4K",AUTOMOTO
+https://tv.it-zone.tech/proxy/964839?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="france4.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png" tvg-name="FRANCE 4"  group-title="🇫🇷 UHD 4K",FRANCE 4
+https://tv.it-zone.tech/proxy/964908?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="nrj12.fr" tvg-logo="https://i.imgur.com/Lv66Gcv.png" tvg-name="NRJ12"  group-title="🇫🇷 UHD 4K",NRJ12
+https://tv.it-zone.tech/proxy/964898?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="france5.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png" tvg-name="FRANCE 5"  group-title="🇫🇷 UHD 4K",FRANCE 5
+https://tv.it-zone.tech/proxy/964907?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="Nickelodeon4Teen.fr" tvg-logo="Logo N/A" tvg-name="NICKELODEON TEEN"  group-title="🇫🇷 UHD 4K",NICKELODEON TEEN
+https://tv.it-zone.tech/proxy/964844?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="ocsgeants.fr" tvg-logo="https://i.imgur.com/sd0HZ4L.png" tvg-name="OCS GEANT"  group-title="🇫🇷 UHD 4K",OCS GEANT
+https://tv.it-zone.tech/proxy/964859?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="golfchannel.fr" tvg-logo="Logo N/A" tvg-name="GOLF CHANNEL"  group-title="🇫🇷 UHD 4K",GOLF CHANNEL
+https://tv.it-zone.tech/proxy/964840?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="ab1.fr" tvg-logo="https://i.imgur.com/9C7UsOe.png" tvg-name="AB1"  group-title="🇫🇷 UHD 4K",AB1
+https://tv.it-zone.tech/proxy/964868?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="LCP.fr" tvg-logo="https://i.imgur.com/k7UImOJ.png" tvg-name="LCP"  group-title="🇫🇷 UHD 4K",LCP
+https://tv.it-zone.tech/proxy/964886?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="lci.fr" tvg-logo="https://i.imgur.com/DED8EXs.png" tvg-name="LCI"  group-title="🇫🇷 UHD 4K",LCI
+https://tv.it-zone.tech/proxy/964888?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="w9.fr" tvg-logo="https://i.imgur.com/reYeMuE.png" tvg-name="W9"  group-title="🇫🇷 UHD 4K",W9
+https://tv.it-zone.tech/proxy/964902?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="mezzo.fr" tvg-logo="https://i.imgur.com/auNdGeW.png" tvg-name="MEZZO"  group-title="🇫🇷 UHD 4K",MEZZO
+https://tv.it-zone.tech/proxy/964831?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="m6.fr" tvg-logo="https://i.imgur.com/7GVp3fW.png" tvg-name="M6"  group-title="🇫🇷 UHD 4K",M6
+https://tv.it-zone.tech/proxy/964905?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="mezzolive.fr" tvg-logo="https://i.imgur.com/H9ytKPN.png" tvg-name="MEZZO LIVE"  group-title="🇫🇷 UHD 4K",MEZZO LIVE
+https://tv.it-zone.tech/proxy/964830?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="6ter.fr" tvg-logo="https://i.imgur.com/2nd5Cox.png" tvg-name="6TER"  group-title="🇫🇷 UHD 4K",6TER
+https://tv.it-zone.tech/proxy/964863?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="ushuaiatv.fr" tvg-logo="https://i.imgur.com/WjjlqbP.png" tvg-name="USHUAIA TV"  group-title="🇫🇷 UHD 4K",USHUAIA TV
+https://tv.it-zone.tech/proxy/964832?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="i24NEWSFrench.il" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" tvg-name="I24 NEWS"  group-title="🇫🇷 UHD 4K",I24 NEWS
+https://tv.it-zone.tech/proxy/964878?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr" tvg-logo="https://i.imgur.com/WmRbudc.png" tvg-name="TV5 MONDE"  group-title="🇫🇷 UHD 4K",TV5 MONDE
+https://tv.it-zone.tech/proxy/964880?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="arte.fr" tvg-logo="https://i.imgur.com/ecXMjNl.png" tvg-name="ARTE"  group-title="🇫🇷 UHD 4K",ARTE
+https://tv.it-zone.tech/proxy/964904?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="gulli.fr" tvg-logo="https://i.imgur.com/kqYssbW.png" tvg-name="GULLI"  group-title="🇫🇷 UHD 4K",GULLI
+https://tv.it-zone.tech/proxy/964894?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="LEquipe.fr" tvg-logo="https://i.imgur.com/t35zhM9.png" tvg-name="L EQUIPE"  group-title="🇫🇷 UHD 4K",L EQUIPE
+https://tv.it-zone.tech/proxy/964892?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="action.fr" tvg-logo="https://i.imgur.com/Zv9VsVq.png" tvg-name="ACTION"  group-title="🇫🇷 UHD 4K",ACTION
+https://tv.it-zone.tech/proxy/964867?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="nickelodeon.fr" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-name="NICKELODEON"  group-title="🇫🇷 UHD 4K",NICKELODEON
+https://tv.it-zone.tech/proxy/964847?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="re#160278" tvg-logo="Logo N/A" tvg-name="KTO"  group-title="🇫🇷 UHD 4K",KTO
+https://tv.it-zone.tech/proxy/964835?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="france3.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png" tvg-name="FRANCE 3"  group-title="🇫🇷 UHD 4K",FRANCE 3
+https://tv.it-zone.tech/proxy/964909?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="cineplusfrisson.fr" tvg-logo="https://i.imgur.com/MwFtbnR.jpeg" tvg-name="CINE+ FRISSON"  group-title="🇫🇷 UHD 4K",CINE+ FRISSON
+https://tv.it-zone.tech/proxy/964857?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="parispremiere.fr" tvg-logo="https://i.imgur.com/ily4bEm.png" tvg-name="PARIS PREMIERE"  group-title="🇫🇷 UHD 4K",PARIS PREMIERE
+https://tv.it-zone.tech/proxy/964870?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="equidia.fr" tvg-logo="https://i.imgur.com/QPpbRcZ.png" tvg-name="EQUIDIA"  group-title="🇫🇷 UHD 4K",EQUIDIA
+https://tv.it-zone.tech/proxy/964841?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="bfmtv.fr" tvg-logo="https://i.imgur.com/YJCcczD.png" tvg-name="BFM TV"  group-title="🇫🇷 UHD 4K",BFM TV
+https://tv.it-zone.tech/proxy/964897?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="pf#200374" tvg-logo="Logo N/A" tvg-name="TCM CINEMA"  group-title="🇫🇷 UHD 4K",TCM CINEMA
+https://tv.it-zone.tech/proxy/964866?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="ad#180373" tvg-logo="Logo N/A" tvg-name="SCIENCE ET VIE"  group-title="🇫🇷 UHD 4K",SCIENCE ET VIE
+https://tv.it-zone.tech/proxy/964833?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="teva.fr" tvg-logo="https://i.imgur.com/kDW0hN5.png" tvg-name="TEVA"  group-title="🇫🇷 UHD 4K",TEVA
+https://tv.it-zone.tech/proxy/964869?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="canalpluskids.fr" tvg-logo="https://i.imgur.com/xknv5py.png" tvg-name="CANAL+ KIDS"  group-title="🇫🇷 UHD 4K",CANAL+ KIDS
+https://tv.it-zone.tech/proxy/964824?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="canalplusgrandecran.fr" tvg-logo="https://i0.wp.com/www.planetecsat.com/wp-content/uploads/2022/01/CANALP_GRAND_ECRAN_1lignes_RVB_2021_06_07-07-01-22.png?w=509&ssl=1" tvg-name="CANAL+ GRAND ECRAN"  group-title="🇫🇷 UHD 4K",CANAL+ GRAND ECRAN
+https://tv.it-zone.tech/proxy/964826?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="EuronewsFrench.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-name="EURONEWS"  group-title="🇫🇷 UHD 4K",EURONEWS
+https://tv.it-zone.tech/proxy/964879?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="eurosport1.fr" tvg-logo="https://i.imgur.com/olQJgm7.png" tvg-name="EUROSPORT 1"  group-title="🇫🇷 UHD 4K",EUROSPORT 1
+https://tv.it-zone.tech/proxy/964822?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="pf#200074" tvg-logo="Logo N/A" tvg-name="CSTAR"  group-title="🇫🇷 UHD 4K",CSTAR
+https://tv.it-zone.tech/proxy/964895?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="polarplus.fr" tvg-logo="https://i.imgur.com/RjnuWFU.png" tvg-name="POLAR+"  group-title="🇫🇷 UHD 4K",POLAR+
+https://tv.it-zone.tech/proxy/964845?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="serieclub.fr" tvg-logo="https://i.imgur.com/V8wRRg5.png" tvg-name="SERIE CLUB"  group-title="🇫🇷 UHD 4K",SERIE CLUB
+https://tv.it-zone.tech/proxy/964815?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="canalplus.fr" tvg-logo="https://i.imgur.com/5HcyMnW.png" tvg-name="CANAL+"  group-title="🇫🇷 UHD 4K",CANAL+
+https://tv.it-zone.tech/proxy/964829?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="comedieplus.fr" tvg-logo="https://i.imgur.com/ArgX0Af.png" tvg-name="COMEDIE+"  group-title="🇫🇷 UHD 4K",COMEDIE+
+https://tv.it-zone.tech/proxy/964862?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="c8.fr" tvg-logo="https://i.imgur.com/40mdgqQ.png" tvg-name="C8"  group-title="🇫🇷 UHD 4K",C8
+https://tv.it-zone.tech/proxy/964903?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="cinepluspremier.fr" tvg-logo="https://i.imgur.com/b20LLN6.png" tvg-name="CINE+ PREMIER"  group-title="🇫🇷 UHD 4K",CINE+ PREMIER
+https://tv.it-zone.tech/proxy/964858?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="disneychannel.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" tvg-name="DISNEY CHANNEL"  group-title="🇫🇷 UHD 4K",DISNEY CHANNEL
+https://tv.it-zone.tech/proxy/964846?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="2837" tvg-logo="Logo N/A" tvg-name="SPORT EN FRANCE"  group-title="🇫🇷 UHD 4K",SPORT EN FRANCE
+https://tv.it-zone.tech/proxy/964882?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="cnews.fr" tvg-logo="https://i.imgur.com/sSNhk2g.png" tvg-name="CNEWS"  group-title="🇫🇷 UHD 4K",CNEWS
+https://tv.it-zone.tech/proxy/964896?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="canalpluscinema.fr" tvg-logo="Logo N/A" tvg-name="CANAL+ CINEMA"  group-title="🇫🇷 UHD 4K",CANAL+ CINEMA
+https://tv.it-zone.tech/proxy/964827?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="cherie25.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Ch%C3%A9rie_25.svg/512px-Logo_Ch%C3%A9rie_25.svg.png" tvg-name="CHERIE 25"  group-title="🇫🇷 UHD 4K",CHERIE 25
+https://tv.it-zone.tech/proxy/964889?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="chassepeche.fr" tvg-logo="https://i.imgur.com/ZIS2ZQ1.png" tvg-name="CHASSE ET PECHE"  group-title="🇫🇷 UHD 4K",CHASSE ET PECHE
+https://tv.it-zone.tech/proxy/964834?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="rmcdecouverte.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/langfr-350px-RMC_D%C3%A9couverte_logo_2017.svg.png" tvg-name="RMC DECOUVERTE"  group-title="🇫🇷 UHD 4K",RMC DECOUVERTE
+https://tv.it-zone.tech/proxy/964890?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="tfx.fr" tvg-logo="https://i.imgur.com/d91GcVf.png" tvg-name="TFX"  group-title="🇫🇷 UHD 4K",TFX
+https://tv.it-zone.tech/proxy/964899?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="cineplusclassic.fr" tvg-logo="https://i.imgur.com/y2zeLS3.jpeg" tvg-name="CINE+ CLASSIC"  group-title="🇫🇷 UHD 4K",CINE+ CLASSIC
+https://tv.it-zone.tech/proxy/964853?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="tmc.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/512px-TMC_logo.svg.png" tvg-name="TMC"  group-title="🇫🇷 UHD 4K",TMC
+https://tv.it-zone.tech/proxy/964901?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TMC+1"  group-title="🇫🇷 UHD 4K",TMC+1
+https://tv.it-zone.tech/proxy/964900?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="toonami.fr" tvg-logo="Logo N/A" tvg-name="TOONAMI"  group-title="🇫🇷 UHD 4K",TOONAMI
+https://tv.it-zone.tech/proxy/964852?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="France24French.fr" tvg-logo="https://i.imgur.com/u8N6uoj.png" tvg-name="FRANCE 24"  group-title="🇫🇷 UHD 4K",FRANCE 24
+https://tv.it-zone.tech/proxy/964906?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="canalplus.fr" tvg-logo="https://i.imgur.com/5HcyMnW.png" tvg-name="CANAL+ UHD"  group-title="🇫🇷 UHD 4K",CANAL+ UHD
+https://tv.it-zone.tech/proxy/964914?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="france2.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png" tvg-name="FRANCE 2"  group-title="🇫🇷 UHD 4K",FRANCE 2
+https://tv.it-zone.tech/proxy/964910?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="canalplusseries.fr" tvg-logo="https://i.imgur.com/JxXXTGk.png" tvg-name="CANAL+ SERIES"  group-title="🇫🇷 UHD 4K",CANAL+ SERIES
+https://tv.it-zone.tech/proxy/964828?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="canalplussport.fr" tvg-logo="https://i.imgur.com/EOXnU15.png" tvg-name="CANAL+ SPORT"  group-title="🇫🇷 UHD 4K",CANAL+ SPORT
+https://tv.it-zone.tech/proxy/964823?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="tf1.fr" tvg-logo="https://i.imgur.com/QxHt9NC.png" tvg-name="TF1"  group-title="🇫🇷 UHD 4K",TF1
+https://tv.it-zone.tech/proxy/964912?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="cineplusamiz.fr" tvg-logo="Logo N/A" tvg-name="CINE+ FAMIZ"  group-title="🇫🇷 UHD 4K",CINE+ FAMIZ
+https://tv.it-zone.tech/proxy/964855?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="RTL9.lu" tvg-logo="https://i.imgur.com/nFqjVNW.png" tvg-name="RTL9"  group-title="🇫🇷 UHD 4K",RTL9
+https://tv.it-zone.tech/proxy/964871?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="paramountchannel.fr" tvg-logo="https://i.imgur.com/BqmDlC2.png" tvg-name="PARAMOUNT CHANNEL"  group-title="🇫🇷 UHD 4K",PARAMOUNT CHANNEL
+https://tv.it-zone.tech/proxy/964816?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="rmcstory.fr" tvg-logo="https://i.imgur.com/h53nsyJ.png" tvg-name="RMC STORY"  group-title="🇫🇷 UHD 4K",RMC STORY
+https://tv.it-zone.tech/proxy/964891?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="tf1.fr" tvg-logo="https://i.imgur.com/QxHt9NC.png" tvg-name="TF1 UHD"  group-title="🇫🇷 UHD 4K",TF1 UHD
+https://tv.it-zone.tech/proxy/964913?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="cineplusclub.fr" tvg-logo="https://i.imgur.com/OJfAUMj.png" tvg-name="CINE+ CLUB"  group-title="🇫🇷 UHD 4K",CINE+ CLUB
+https://tv.it-zone.tech/proxy/964854?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="cineplusemotion.fr" tvg-logo="https://i.imgur.com/upYjPvc.jpeg" tvg-name="CINE+ EMOTION"  group-title="🇫🇷 UHD 4K",CINE+ EMOTION
+https://tv.it-zone.tech/proxy/964856?voucher=GSXRLVY0
+
+#EXTINF:-1, tvg-id="tf1seriesfilms.fr" tvg-logo="https://i.imgur.com/4CJIDKQ.png" tvg-name="TF1 SERIES FILMS"  group-title="🇫🇷 UHD 4K",TF1 SERIES FILMS
+https://tv.it-zone.tech/proxy/964893?voucher=GSXRLVY0
 
 
 
